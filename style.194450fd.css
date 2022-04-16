@@ -1,0 +1,2 @@
+*{margin:0}.blocks{display:flex;flex-wrap:wrap}.block{font-family:Arial,Helvetica,sans-serif;height:300px;min-width:300px;display:flex;align-items:center;justify-content:center;flex-grow:1;flex-basis:33.33%;color:#fff;font-size:100px}.block_1{background:red}.block_2{background:#c00}.block_3{background:#900}.block_4{background:#600}.block_5{background:#300}.block_6{background:#000}@media (min-width:900px){.block_4{order:2}.block_5{order:1}}@media (min-width:600px) and (max-width:899px){.block_3{order:1}.block_5,.block_6{order:2}}
+/*# sourceMappingURL=style.194450fd.css.map */
